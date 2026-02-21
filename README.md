@@ -76,6 +76,12 @@ LBA tools are very useful for testing Storage stability and verifying DATA consi
 ## 随机数据校验
 ![example](./test/随机数据校验.png)
 
+## 静默错误检测(LBA工具)
+![example](./test/LBA工具_静默错误检测.png)
+
+## 静默错误检测(DUMP工具)
+![example](./test/DUMP工具_静默错误检测.png)
+
 ## 条带策略：round-robin
 ![example](./test/round-robin.png)
 ![example](./test/stripe_policy_info.png)
